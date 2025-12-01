@@ -1,0 +1,23 @@
+# Ambiente virtual
+.venv/
+
+# Cache e metadados
+__pycache__/
+*.pyc
+*.pyo
+
+# Dados grandes
+data/
+!data/README.md
+
+# Saídas (imagens, áudios processados)
+outputs/
+*.png
+*.wav
+
+# Editor
+.vscode/
+.idea/
+
+# Notebooks temporários
+.ipynb_checkpoints/
