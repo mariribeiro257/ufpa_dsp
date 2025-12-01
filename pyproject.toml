@@ -75,6 +75,7 @@ dependencies = [
     "numba==0.62.1",
     "numpy==2.3.4",
     "packaging==25.0",
+    "pandas>=2.3.3",
     "pandocfilters==1.5.1",
     "parso==0.8.5",
     "pathspec==0.12.1",
